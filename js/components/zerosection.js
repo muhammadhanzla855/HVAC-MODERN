@@ -9,7 +9,7 @@ export function zerosection() {
     <!-- BACKGROUND -->
     <div 
       class="absolute inset-0 w-full h-full bg-cover bg-center"
-      style="background-image: url('https://framerusercontent.com/images/gvrZUoowU6t5rwpwtONkkVWoFSU.png');">
+      style="background-image: url('./assets/images/g.png');">
     </div>
 
     <!-- DARK OVERLAY -->
