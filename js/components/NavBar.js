@@ -10,7 +10,7 @@ export function NavBar() {
 
       <!-- LOGO -->
       <div class="flex items-center">
-        <img src="./assets/icons/image.png" alt="Logo" class="w-22 h-12">
+        <img src="./assets/icons/Modern.png" alt="Logo" class="w-20 h-25">
       </div>
 
       <!-- NAV LINKS (CENTER) -->
