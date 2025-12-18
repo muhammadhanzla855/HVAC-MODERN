@@ -15,10 +15,10 @@ export function zerosection() {
     </div>
 
     <!-- DARK OVERLAY -->
-    <div class="absolute inset-0 bg-black/30"></div>
+    <div class="absolute inset-0 /30"></div>
 
     <!-- LEFT GRADIENT FADE -->
-    <div class="absolute inset-0 bg-gradient-to-r from-black/70 via-black/40 to-transparent"></div>
+    <div class="absolute inset-0 bg-gradient-to-r"></div>
 
     <!-- CONTENT -->
     <div id="hero-content" class="relative z-20 w-full h-full"></div>
