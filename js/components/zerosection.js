@@ -38,11 +38,11 @@ export function zerosection() {
 
         <div class="w-full md:w-1/2 mt-32 md:mt-10">
 
-          <h1 class="text-5xl md:text-7xl font-extrabold leading-tight tracking-tight text-white mb-10">
-            Affordable <br />
-            HVAC Solution <br />
-            in New Texas.
-          </h1>
+          <h1 class="pt-[60px] md:pt-[80px] text-5xl md:text-7xl font-medium leading-tight tracking-tight text-white mb-10">
+  Affordable <br />
+  HVAC Solution <br />
+  in California and New Jersey.
+</h1>
 
           <button class="group bg-white text-black px-7 py-4 rounded-full text-lg font-semibold flex items-center gap-3 shadow-xl hover:bg-gray-200 transition">
             GET STARTED NOW
